@@ -1,0 +1,97 @@
+a{
+    text-decoration: none;
+}
+.home{
+    color: #FA4A0C;
+}
+.nav-list{
+    color: #252B42;
+}
+ul{
+    list-style: none;
+}
+.ul{
+    display: flex;
+    gap: 70px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+.app{
+    display: flex;
+    justify-content: center;
+}
+.can{
+    display: flex;
+    justify-content: center;
+}
+.order{
+    display: flex;
+    justify-content: center;
+}
+.div{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.how{
+    display: flex;
+    justify-content: center;
+}
+.create{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+}
+.an{
+    color: #FA4A0C;
+}
+.explore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+}
+.varieties{
+    color: #FA4A0C;
+}
+.favorite{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 850px;
+}
+.section-hero-btn{
+    width: 180px;
+    height: 50px;
+    border-radius: 20px;
+    background-color:#FA4A0C;
+    color: #FFFFFF;
+}
+.section-btn{
+    width: 180px;
+    height: 50px;
+    border-radius: 20px;
+    background-color:white;
+    color: #000;
+}
+.btn{
+    width: 140px;
+    height: 50px;
+    border-radius: 10px;
+    background-color:#FA4A0C;
+    color: #FFFFFF;
+}
+.btn-section{
+    width: 140px;
+    height: 50px;
+    border-radius: 10px;
+    background-color:white;
+    color: #000;
+}
